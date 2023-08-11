@@ -1,0 +1,21 @@
+#f1{
+	font-family: "Bricolage Grotesque";
+      font-weight:bold;
+	}
+#f2{
+font-family:'Lumanosimo', cursive;
+	font-style:italic;
+	font-size: 30px;
+	font-variant:small-caps;
+}
+#f3{
+	
+font-family:'Dancing Script', cursive;
+	font-weight:500;
+}
+#f4{
+	font:italic small-caps bold 16px/60px serif;
+}
+.fa-brands fa-facebook{
+	color:deeppink;
+}
